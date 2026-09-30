@@ -1,0 +1,6 @@
+{
+  "name": "Apex Studio – Modern Professional Website",
+  "description": "A clean, modern, and professional website built with WordPress best practices, mobile responsive design, and easy content management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
